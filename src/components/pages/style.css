@@ -1,0 +1,192 @@
+#jumbo {
+    background-color: black;
+    background-size: inherit;
+    background-repeat: no-repeat;
+    color: white;
+    width: 100%;
+}
+
+.card {
+    width: 18rem;
+}
+
+.home-div, .home-news, .about-div {
+    padding-top: 30px;
+}
+
+.home-news {
+    margin-top: 40px;
+}
+
+/* Home page */
+
+.only {
+    width: 100%;
+    height: auto;
+    box-shadow: 0px 12px 18px -6px rgba(0, 0, 0, 0.3);
+}
+
+.responsive_div {
+    padding: 0;
+}
+
+#responsive_h1 {
+    font-size: 3vw;
+}
+
+#responsive_h7 {
+    text-align: center;
+    font-size: 1vw;
+}
+
+.page_inner_div {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+#intro_h1 {
+    font-size: 3vw;
+}
+
+#intro_h7 {
+    text-align: center;
+    font-size: 1vw;
+}
+
+/* contact page*/
+
+#contact_form {
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.contact_lower_div {
+    background-color: #343a40;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    text-align: center;
+    font-family: "Raleway";
+}
+
+#contact_photo {
+    padding: 10px;
+    opacity: 1;
+}
+
+#contact_photo:hover {
+    opacity: 0.3;
+}
+
+/* Contact page upper div - Creator and Founder */
+
+#services {
+    background-color: #009688;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+/* Contact icons - FOOTER */
+
+.contact_icon {
+    padding-right: 20px;
+}
+
+/* Donation page */
+
+#donate_grid {
+    text-align: left;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+@media (min-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .boxes, .boxes2 {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 992px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .boxes, .boxes2, p {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 768px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .boxes, .boxes2, p {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 576px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .boxes, .boxes2, p {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .boxes, .boxes2 {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .boxes, .boxes2 {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 1200px) {}
+
+@media (max-width: 992px) {
+    #responsive_h1 {
+        font-size: 4vw;
+    }
+    #responsive_h7 {
+        font-size: 1.5vw;
+        text-align: center;
+    }
+}
+
+@media (max-width: 768px) {
+    #responsive_h1 {
+        font-size: 5vw;
+    }
+    #responsive_h7 {
+        font-size: 2vw;
+        text-align: center;
+    }
+}
+
+@media (max-width: 576px) {
+    #responsive_h1 {
+        font-size: 7vw;
+    }
+    #responsive_h7 {
+        font-size: 3vw;
+        text-align: center;
+    }
+}
+
+@media (max-width: 400px) {
+    #responsive_h1 {
+        font-size: 8vw;
+    }
+    #responsive_h7 {
+        text-align: center;
+        font-size: 4vw;
+    }
+}
+
+@media (max-width: 200px) {
+    #responsive_h1 {
+        font-size: 8vw;
+    }
+    #responsive_h7 {
+        text-align: center;
+        font-size: 4vw;
+    }
+}

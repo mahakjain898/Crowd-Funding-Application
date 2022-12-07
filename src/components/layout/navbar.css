@@ -1,0 +1,45 @@
+body {
+  font-family: "raleway", Arial, Helvetica, sans-serif;
+}
+
+#title {
+  color: #28a745;
+  font-weight: bold;
+}
+
+#head {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+#header-space {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.hero {
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.hero::after {
+  content: "";
+  display: block;
+  opacity: 0.4;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.hero * {
+  position: relative;
+  z-index: 2;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white !important;
+}
