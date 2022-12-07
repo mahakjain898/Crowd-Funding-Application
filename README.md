@@ -47,13 +47,18 @@ AS a user who wants to know what is going on around the world can login into the
 ## How to use the system
 
 -Git clone and download the Repository "donate_now" from Github onto your local computer
+
 -In your terminal, cd to "donate_now" folder
+
 -Setup .env file with variable BACKEND_URL(add backend url for API calls.)
+
 -In terminal run "npm start" for running application
+
 -cd into server folder
 ---Setup .env file with variable DB(add mongoDB url for connecting to database), JWTPRIVATEKEY
 ---npm install and npm install all of the dependencies
 ---in terminal run using "npm start"
+
 -Local browser website will be: localhost:3000
 
 ## Technologies
