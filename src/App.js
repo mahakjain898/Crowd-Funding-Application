@@ -22,9 +22,6 @@ import Donate from "./components/pages/Donate";
 import "./App.css";
 import SearchNews from "./components/pages/News";
 
-// function onAuthRequired({ history }) {
-//   history.push("/login");
-// }
 const user = localStorage.getItem("token");
 const admin = localStorage.getItem("isAdmin");
 class App extends Component {

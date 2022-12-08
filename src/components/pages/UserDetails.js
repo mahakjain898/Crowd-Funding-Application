@@ -32,7 +32,7 @@ function UserDetails() {
     });
   }, []);
   return (
-    <div className="container mt-4 col-12 col-lg-4">
+    <div className="container p-5 mt-4 col-12 col-lg-4">
       <form onSubmit={onSubmitHandler}>
         <InputGroup
           label="Email"

@@ -90,10 +90,6 @@ Project is created with:
 
 - This project was completed using MongoDB, populating the database with charity information such as: Charity name, description, rating, and website URL.
 
-## Bugs And Feature Requests
-
-Have a bug or a feature request? Please contact us at "donationally@gmail.com"
-
 ## Authors
 
 - Rutvi Tilala
