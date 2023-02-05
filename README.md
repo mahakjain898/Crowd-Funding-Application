@@ -30,19 +30,9 @@ Contact Us: The Contact Us page provides personal information / photos about the
 
 User can login the system using email and password. Unregistered user can sign up with the system too.
 
-## User Story
-
-AS A philanthropist
-
-I WANT to donate to charities of my choosing
-
-SO THAT I can give back to those in need
-
-AS a user who wants to know what is going on around the world can login into the system for knowing various news around the World.
-
 ## General Info
 
-"Donate Now" is a non-profit website, allowing users to search for worldwide charities and donate to a personal cause of their choosing. The application incorporates the full "MERN" stack, featuring a Mongo Database that saves user information and "favorited" charities. The "Charity Map" section geolocates the user's position, giving them charities around their area. The "Donate" section of this React project guides users to donate a set or custom amount of money to their selected charity. Users are also able to search worldwide news on selected charities through the "News" tab.
+" "Donate Now" enables visitors to look out international organizations and donate to a specific cause of their choosing. The program makes use of the entire "MERN" stack and includes a Mongo Database that stores user data and "preferred" charity. The "Charity Map" part uses the user's location to geolocate nearby charity. This React project's "Donate" section instructs users on how to give a predetermined or custom sum of money to the charity of their choice. The "News" option allows users to search for international news about particular charity."
 
 ## How to use the system
 
